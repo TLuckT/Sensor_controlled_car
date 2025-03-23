@@ -81,3 +81,4 @@ Sau khi kết nối dây, bạn có thể sử dụng thư viện **Adafruit_ADX
 | Phạm Thành Hưng | Đề xuất cải tiến, đề xuất dự án, viết báo cáo, hỗ trợ triển khai dự án |
 | Trịnh Hữu Hiệu  | Biên soạn tài liệu, thiết kế slide, hỗ trợ triển khai dự án |
 | Nguyễn Thế Vinh | Hỗ trợ triển khai dự án |
+
